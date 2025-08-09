@@ -2,10 +2,11 @@
 
 I’m currently learning full-stack web development with a focus on modern frontend and backend technologies.  
 Excited to build projects and improve my skills!
-<br>
+<br><br><br>
 📫 Feel free to reach out: younes.darabi@outlook.com 
+<br>
 🌐 Connect with me on LinkedIn: www.linkedin.com/in/younes-darabi
-<br><br>
+<br><br><br>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
