@@ -36,4 +36,4 @@ Based in **Bremen, Germany**, I bridge the gap between elegant front-end design 
 
 ### 📫 Connect with me:
 - **Portfolio:** [younes-darabi.de](https://younes-darabi.de)
-- **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/younes-darabi/)]
+- **LinkedIn:** [linkedin.com/in/younes-darabi/](https://www.linkedin.com/in/younes-darabi/)
