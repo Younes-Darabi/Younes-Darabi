@@ -21,12 +21,6 @@ Based in **Bremen, Germany**, I bridge the gap between elegant front-end design 
 
 ---
 
-### 📈 GitHub Stats
-![Younes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Younes-Darabi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes-Darabi&layout=compact&theme=radical)
-
----
-
 ### 🛠️ Tech Stack & Skills
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
