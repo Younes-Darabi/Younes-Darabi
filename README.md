@@ -73,15 +73,6 @@ I build complete, production-ready web applications: from REST APIs and database
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Younes-Darabi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younes-Darabi&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 🌐 **Portfolio:** [younes-darabi.de](https://younes-darabi.de)
