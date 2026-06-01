@@ -64,9 +64,10 @@ I build complete, production-ready web applications: from REST APIs and database
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Videoflix** *(ongoing)* | Netflix-inspired video streaming platform with transcoding, auth & background tasks | Django · Angular · Redis · Celery · Docker | — |
-| **KanMind** | Collaborative project management backend with RESTful APIs for boards, tasks & users | Django · DRF · PostgreSQL · Nginx | [GitHub](https://github.com/Younes-Darabi/kanmind) · [Live](https://kanmind.younes-darabi.de) |
+| **Videoflix** *(ongoing)* | Netflix-inspired video streaming platform with transcoding, auth & background tasks | Django · Angular · Redis · Celery · Docker | [GitHub](https://github.com/Younes-Darabi/videoflix) |
 | **Coderr** | Backend system for managing code snippets with auth, CRUD & REST APIs | Django · DRF · SQLite | [GitHub](https://github.com/Younes-Darabi/Coderr) · [Live](https://coderr.younes-darabi.de) |
+| **Quizly** | Interactive quiz application with dynamic questions & score tracking | Django · DRF · SQLite | [GitHub](https://github.com/Younes-Darabi/quizly) |
+| **KanMind** | Collaborative project management backend with RESTful APIs for boards, tasks & users | Django · DRF · PostgreSQL · Nginx | [GitHub](https://github.com/Younes-Darabi/kanmind) · [Live](https://kanmind.younes-darabi.de) |
 | **Join** | Kanban-style task manager with drag-and-drop, team assignment & real-time updates | Angular · TypeScript · Firebase · SCSS | [GitHub](https://github.com/Younes-Darabi/join-project) · [Live](https://join.younes-darabi.de) |
 | **Sharkie** | 2D jump-and-run browser game with OOP, animation & collision logic | JavaScript · HTML · CSS | [GitHub](https://github.com/Younes-Darabi/Sharkie) · [Live](https://sharkie.younes-darabi.de) |
 | **Pokédex** | PokéAPI-powered app with dynamic search, Pokémon stats & responsive UI | JavaScript · REST API · HTML · CSS | [GitHub](https://github.com/Younes-Darabi/Pokemon) · [Live](https://pokedex.younes-darabi.de) |
