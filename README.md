@@ -64,7 +64,7 @@ I build complete, production-ready web applications: from REST APIs and database
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Videoflix** *(ongoing)* | Netflix-inspired video streaming platform with transcoding, auth & background tasks | Django · Angular · Redis · Celery · Docker | [GitHub](https://github.com/Younes-Darabi/videoflix) |
+| **Videoflix** | Netflix-inspired video streaming platform with transcoding, auth & background tasks | Django · Angular · Redis · Celery · Docker | [GitHub](https://github.com/Younes-Darabi/videoflix) |
 | **Coderr** | Backend system for managing code snippets with auth, CRUD & REST APIs | Django · DRF · SQLite | [GitHub](https://github.com/Younes-Darabi/Coderr) · [Live](https://coderr.younes-darabi.de) |
 | **Quizly** | Interactive quiz application with dynamic questions & score tracking | Django · DRF · SQLite | [GitHub](https://github.com/Younes-Darabi/quizly) |
 | **KanMind** | Collaborative project management backend with RESTful APIs for boards, tasks & users | Django · DRF · PostgreSQL · Nginx | [GitHub](https://github.com/Younes-Darabi/kanmind) · [Live](https://kanmind.younes-darabi.de) |
